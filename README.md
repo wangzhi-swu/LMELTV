@@ -1,5 +1,4 @@
 # LMELTV
-Hyperspectral image denoising via enhanced Laplacian total variation regularizer
 
 
 Matlab Code for hyperspectral image denoising:
