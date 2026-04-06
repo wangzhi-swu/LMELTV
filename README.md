@@ -3,7 +3,7 @@
 
 Matlab Code for hyperspectral image denoising:
 
-Reference: Dong Hu, Yusen Tan, Yong Wang, Tao Jia, and Zhi Wang*. Hyperspectral image denoising via enhanced Laplacian total variation regularizer, Submitted, 2026.
+Reference: Dong Hu, Yusen Tan, Yong Wang, Tao Jia, and Zhi Wang*. Hyperspectral image denoising via enhanced Laplacian total variation regularizer, Expert Systems with Applications, 2026.
 
 This code was authored by Yusen Tan under the supervision of Dr. Zhi Wang at Southwest University, 2025.
 
